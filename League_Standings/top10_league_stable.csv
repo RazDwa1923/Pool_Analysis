@@ -1,0 +1,21 @@
+,SD Score,Chain,Protocol,Symbol,TVL (Millions),TVL Change (7D),APY (%),7D APY (%)
+62458,90.32,Arbitrum,abracadabra,MIM-USDC-USDT,17.2,7.04,36.62,37.31
+20579,85.32,Sui,navi-protocol,USDC,15.0,,26.11,26.55
+215025,83.31,BSC,pancakeswap-amm-v3,USDT-BUSD,8.09,2.14,11.19,40.31
+142606,83.27,Solana,orca,USDC-USDT,4.41,65.04,23.93,31.2
+327844,83.0,Arbitrum,beefy,MIM-ARBUSDCE-USDT,4.02,30.57,38.21,39.55
+99257,83.0,Arbitrum,merkl,STEUR-USDC,4.06,18.09,30.22,32.64
+185250,82.7,Ethereum,pancakeswap-amm-v3,USDC-USDT,5.31,-12.24,34.53,37.29
+45877,82.44,Arbitrum,solv-funds,USDT,2.17,,72.79,80.07
+295150,82.01,Arbitrum,vela-exchange,USDC,6.11,-4.38,23.43,22.9
+168762,81.33,Ethereum,curve-dex,IDAI-IUSDC-IUSDT,5.04,0.3,40.27,33.31
+88460,81.32,Ethereum,aura,DOLA-USDC,4.31,-26.72,29.72,28.86
+114558,80.56,Arbitrum,solv-funds,USDC,4.32,2.58,24.18,25.98
+325791,80.27,Ethereum,beefy,MKUSD-FRAX-USDC,3.56,21.82,33.84,32.19
+98257,79.94,Cardano,liqwid,DJED,2.95,56.13,29.51,33.74
+238239,79.61,Arbitrum,aura,DOLA-USDC,3.56,1.56,21.95,23.14
+28192,79.56,Cardano,liqwid,IUSD,2.9,-17.04,30.52,29.57
+201272,79.2,Arbitrum,pendle,GDAI,7.24,-1.22,18.57,18.9
+85949,79.11,Arbitrum,merkl,USDC-DAI,5.86,9.37,21.93,22.64
+230155,79.06,Optimism,velodrome-v2,USDV-USDC,2.96,-7.51,24.57,26.67
+276228,77.9,Ethereum,convex-finance,DOLA-FRAXBP,15.11,-5.84,17.58,17.52
